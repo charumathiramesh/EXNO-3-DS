@@ -31,6 +31,10 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
+```
+NAME : CHARUMATHI R
+REF NO : 212222240021
+```
 
 ![Screenshot 2024-04-01 104444](https://github.com/charumathiramesh/EXNO-3-DS/assets/120204455/31e598f5-3715-4c97-bc33-cbd97acf26e1)
 
